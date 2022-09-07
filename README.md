@@ -7,7 +7,7 @@ APP URL: [https://django-task-scheduler.herokuapp.com/admin/](https://django-tas
 1. with the given credentials, log in to the admin panel and open Requests
 2. Add your HTTP Request with a name, choose GET or POST, add your URL, add a start date and time and save it.
 3. You will see your inputs in the requests table. You can modify if only before the request has been made.
-4. The requests table will be updated once the request has been made with the following infos: STATUS, STATUS_CODE and RES_BODY (3 left columns)
+4. The requests table will be updated once the request has been made with the following infos: STATUS, STATUS_CODE and RES_BODY (3 right columns)
 5. Additional infos of the requests can be found at Task Results tab, such as id, task name, complete datetime, state and worker.
 
 ## Tech Stack:
